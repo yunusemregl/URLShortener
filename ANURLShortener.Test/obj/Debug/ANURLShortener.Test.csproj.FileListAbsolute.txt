@@ -1,0 +1,11 @@
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Test\bin\Debug\ANURLShortener.Test.exe
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Test\bin\Debug\ANURLShortener.Test.pdb
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Test\bin\Debug\ANURLShortener.dll
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Test\bin\Debug\ANURLShortener.Enum.dll
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Test\bin\Debug\Newtonsoft.Json.dll
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Test\bin\Debug\ANURLShortener.Enum.pdb
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Test\bin\Debug\ANURLShortener.pdb
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Test\bin\Debug\Newtonsoft.Json.xml
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Test\obj\Debug\ANURLShortener.Test.csprojResolveAssemblyReference.cache
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Test\obj\Debug\ANURLShortener.Test.exe
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Test\obj\Debug\ANURLShortener.Test.pdb

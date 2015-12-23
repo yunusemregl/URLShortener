@@ -1,0 +1,5 @@
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Enum\bin\Debug\ANURLShortener.Enum.dll
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Enum\bin\Debug\ANURLShortener.Enum.pdb
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Enum\obj\Debug\ANURLShortener.Enum.csprojResolveAssemblyReference.cache
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Enum\obj\Debug\ANURLShortener.Enum.dll
+F:\Github_Repositories\ANURLShortener\ANURLShortener.Enum\obj\Debug\ANURLShortener.Enum.pdb
